@@ -1,0 +1,5 @@
+GUI Link:
+https://www.figma.com/design/8xPbDeT0z74b9iUKeDcCBL/Security-Service-Management-System?node-id=0-1&t=WswoFkO9PRdJr0wP-0
+
+Mockup Link:
+https://www.figma.com/design/pL8SpMLqieGTqEqTgaFeIa/SSMS-Web-Application-Mockup?node-id=1046-41&node-type=CANVAS&t=4tevXjoLLrEF6m14-0
